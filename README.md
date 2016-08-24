@@ -35,8 +35,15 @@
 #### 个人作品
 * MarkLite 
 	
-	这是我业余时间独立开发的iOS平台的Markdown编辑器，断断续续收到不少好评和一些捐赠，可以快速插入图片并将图片同步到图床，支持iCloud云存储，可以导出为PDF，Web页面等格式。
-		
+	这是我业余时间独立开发的iOS平台的Markdown编辑器，可以快速插入图片并将图片同步到图床，支持iCloud云存储，可以导出为PDF，Web页面等格式。
+	
+	**本人工作内容**：
+	1. 使用storyboard完成界面，并在iPad和iPhone上适配
+	2. 使用正则表达式对语法解析并高亮
+	3. 使用iCloud Device在不同设备上同步文件
+	4. 对编辑界面的UITextView进行定制，使其能流畅地实时渲染
+	5. 打包上线
+	
 	下载链接:[https://itunes.apple.com/app/id1098107145](https://itunes.apple.com/app/id1098107145)
    
 #### 公司项目
